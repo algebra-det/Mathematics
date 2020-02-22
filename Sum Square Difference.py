@@ -12,3 +12,6 @@ print(z)
 
 difference = z - x
 print("Difference is :- ",difference)
+
+
+#Difference i.e. the smallest between Two Squared Numbers
